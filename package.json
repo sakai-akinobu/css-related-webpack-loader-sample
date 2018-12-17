@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "style-loader": "npx webpack-dev-server --config ./webpack/style-loader.js"
+    "css-loader": "npx webpack-dev-server --config ./webpack/css-loader.js"
   },
   "author": "Akinobu SAKAI <sakai.akinobu@gmail.com> (https://github.com/sakai-akinobu)",
   "license": "MIT",
